@@ -1,0 +1,4 @@
+github.com/sparkwing-dev/sparkwing/sparkwing v0.4.0 h1:xyBFq+kVsd1yPiHheggwAXmfif07HKJYVfdqi4iFCw4=
+github.com/sparkwing-dev/sparkwing/sparkwing v0.4.0/go.mod h1:wjxPsVLsVmFG8L98Xc6mrdSgNvGpUyeO88srMbw9zdE=
+go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
+go.uber.org/goleak v1.3.0/go.mod h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE=
